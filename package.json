@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "async landing page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdelizadev/async-landing.git"
+  },
+  "keywords": [],
+  "author": "Jaime De Lizaola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jdelizadev/async-landing/issues"
+  },
+  "homepage": "https://github.com/Jdelizadev/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
